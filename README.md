@@ -1,2 +1,2 @@
 # Processing
-My repository to store the codes made with Processing.
+Repository to store the source codes made using Processing.
